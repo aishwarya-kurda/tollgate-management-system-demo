@@ -1,3 +1,3 @@
-# tollgate-management-system-demo
-this is my first project
+# Tollgate-management-system-demo
+This is my first project
 Author-aishwarya kurda
